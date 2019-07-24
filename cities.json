@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "message": "Cities retrivied",
+    "data": [
+        {
+            "_id": "5d3855a883312122e8ae46cf",
+            "create_date": "2019-07-24T12:57:12.730Z",
+            "id": 1001,
+            "cityname": "bangalore",
+            "lat": "-42.14276",
+            "lang": "73.47432",
+            "subscription": "paid",
+            "__v": 0
+        },
+        {
+            "_id": "5d38568e8cad961d289faae0",
+            "create_date": "2019-07-24T13:01:02.765Z",
+            "id": 1002,
+            "cityname": "haydrabad",
+            "lat": "-42.14276",
+            "lang": "73.47432",
+            "subscription": "paid",
+            "__v": 0
+        },
+        {
+            "_id": "5d3856978cad961d289faae1",
+            "create_date": "2019-07-24T13:01:11.891Z",
+            "id": 1002,
+            "cityname": "modasa",
+            "lat": "-42.14276",
+            "lang": "73.47432",
+            "subscription": "paid",
+            "__v": 0
+        }
+    ]
+}
